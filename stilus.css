@@ -1,0 +1,165 @@
+
+
+.fullscreen-bg{
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index: -100;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+.fejlec{
+    font-family: Arial;
+    position:absolute;
+    top:0;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 18px;
+    text-align: center;
+
+}
+.fejlec a{
+    text-decoration: none;
+    margin:0 10px;
+    color:cornsilk;
+    font-weight: bold;
+}
+.vkozepre{
+    position:absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.vfkozepre{
+    position: absolute;
+    top:50%;
+    left:50%;
+    text-align: center;
+    transform: translate(-50%, 50%);
+
+}
+.focim{
+    font-size: 50px;
+    
+}
+.fullscreen-bg-video{
+    position: absolute;
+    top:50%;
+    left:50%;
+    width:auto;
+    height:auto;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+.gombdoboz{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.gomb{
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display:inline-block;
+    color:cornsilk;
+}
+.gomb:hover{
+    filter: invert(100%);
+    box-shadow: none;
+
+}
+.lablec_vkozepre{
+    position:absolute;
+    bottom:0;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.fejlec_vkozepre{
+    text-align: center;
+}
+.focim{
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    text-transform: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    color:cornsilk;
+}
+.cumi{
+    width: 550px;
+    margin: auto;
+    padding: 10px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 25px;
+    text-transform: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    color:cornsilk;
+}
+.b{
+    color: aqua;
+}
+.hpal{
+    width:650px;
+    height:450px;
+}
+.kep{
+    float: right;
+    width:150px;
+    height:150px;
+
+}
+#uborka{
+    text-align: center;
+    font-size: 40px;
+    color:white
+    
+    
+
+}
+#style{
+    text-align: center;
+}
+.puki{
+    width:450px;
+    height:150px;
+}
+#w3review{
+    text-align: center;
+}
+.w3review{
+    text-align: center;
+}
+#kontener{
+    width: 800px;
+    margin: auto;
+    border: 5px solid darkgreen;
+    border-top: 5px solid darkgreen;
+
+}

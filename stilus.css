@@ -156,6 +156,7 @@ html, body{
 .puki{
     width:450px;
     height:150px;
+    border: 6px ridge yellow;
 }
 #w3review{
     text-align: center;

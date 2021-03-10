@@ -170,3 +170,17 @@ html, body{
     border-top: 5px solid darkgreen;
 
 }
+.repa{
+    float:right;
+    width: 200px;
+    height: 600px;
+    border: 6px ridge yellow;
+
+}
+.repa1{
+    float:left;
+    width: 200px;
+    height: 600px;
+    border: 6px ridge yellow;
+
+}

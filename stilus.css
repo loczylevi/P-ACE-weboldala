@@ -140,6 +140,12 @@ html, body{
     font-size: 40px;
     color:white
     font-family:Georgia, 'Times New Roman', Times, serif;
+       -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color:black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 5px;  
+ -webkit-text-stroke-width: 3px;
     
     
 

@@ -185,3 +185,26 @@ html, body{
     border: 6px ridge yellow;
 
 }
+
+.bemutatkozas{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:white
+}
+#kontener{
+    width: 1300px;
+            margin: auto;
+            border: 8px solid black;
+            border-top: 22px solid red;
+            background-color: olivedrab;
+}
+#credit{
+    text-align:center;
+
+}
+.credit1{
+    width: 100px;
+    height: 100px;
+}
+    

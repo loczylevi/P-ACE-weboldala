@@ -207,4 +207,26 @@ html, body{
     width: 100px;
     height: 100px;
 }
+.epuletek{
+    height: 650px;
+    width: 1200px;
+    border: 6px ridge yellow;
+
+}
+#nyil{
+    text-align: center;
+}
+.udvozollek{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: yellow;
+    -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+
+}
     

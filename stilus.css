@@ -229,4 +229,48 @@ html, body{
  -webkit-text-stroke-width: 1px;
 
 }
+#uborka1{
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 2px;  
+ -webkit-text-stroke-width: 2px;
+}
+.udvozollek2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 78px;
+    color: yellow;
+    -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 2px;  
+ -webkit-text-stroke-width: 2px;
+
+}
+
+.gomb101{
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background:whitesmoke;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display:inline-block;
+    color:cornsilk;
+}
+.gomb101:hover{
+    filter: invert(100%);
+    box-shadow: none;
+
+}
     

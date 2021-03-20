@@ -273,4 +273,8 @@ html, body{
     box-shadow: none;
 
 }
-    
+.kinezet{
+width:1150px;
+height:650px;
+border: 6px ridge yellow;
+}

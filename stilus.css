@@ -214,10 +214,10 @@ html, body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
     color: yellow;
-    -moz-text-fill-color: yellow;
- -webkit-text-fill-color:yellow ;
-    -moz-text-stroke-color: black;
- -webkit-text-stroke-color: black;
+    -moz-text-fill-color: black;
+ -webkit-text-fill-color:black ;
+    -moz-text-stroke-color: yellow;
+ -webkit-text-stroke-color: yellow;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
 
@@ -226,24 +226,24 @@ html, body{
     font-size: 40px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     
-    -moz-text-fill-color: yellow;
- -webkit-text-fill-color:yellow ;
-    -moz-text-stroke-color: black;
- -webkit-text-stroke-color: black;
-    -moz-text-stroke-width: 2px;  
- -webkit-text-stroke-width: 2px;
+    -moz-text-fill-color: black;
+ -webkit-text-fill-color:black ;
+    -moz-text-stroke-color: yellow;
+ -webkit-text-stroke-color: yellow;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
 }
 .udvozollek2{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 78px;
     color: yellow;
-    -moz-text-fill-color: yellow;
- -webkit-text-fill-color:yellow ;
-    -moz-text-stroke-color: black;
- -webkit-text-stroke-color: black;
-    -moz-text-stroke-width: 2px;  
- -webkit-text-stroke-width: 2px;
+    -moz-text-fill-color: black;
+ -webkit-text-fill-color:black ;
+    -moz-text-stroke-color: yellow;
+ -webkit-text-stroke-color: yellow;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
 
 }
 

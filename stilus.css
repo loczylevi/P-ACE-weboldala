@@ -1,0 +1,278 @@
+.fullscreen-bg{
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index: -100;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+.fejlec{
+    font-family: Arial;
+    position:absolute;
+    top:0;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 18px;
+    text-align: center;
+
+}
+.fejlec a{
+    text-decoration: none;
+    margin:0 10px;
+    color:cornsilk;
+    font-weight: bold;
+}
+.vkozepre{
+    position:absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.vfkozepre{
+    position: absolute;
+    top:50%;
+    left:50%;
+    text-align: center;
+    transform: translate(-50%, 50%);
+
+}
+.focim{
+    font-size: 50px;
+    
+}
+.fullscreen-bg-video{
+    position: absolute;
+    top:50%;
+    left:50%;
+    width:auto;
+    height:auto;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+.gombdoboz{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.gomb{
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display:inline-block;
+    color:cornsilk;
+}
+.gomb:hover{
+    filter: invert(100%);
+    box-shadow: none;
+
+}
+.lablec_vkozepre{
+    position:absolute;
+    bottom:0;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.fejlec_vkozepre{
+    text-align: center;
+}
+.focim{
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    text-transform: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    color:cornsilk;
+}
+.cumi{
+    width: 550px;
+    margin: auto;
+    padding: 10px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 25px;
+    text-transform: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    color:cornsilk;
+}
+.b{
+    color: aqua;
+}
+.hpal{
+    width:650px;
+    height:450px;
+}
+.kep{
+    float: right;
+    width:150px;
+    height:150px;
+
+}
+#uborka{
+    text-align: center;
+    font-size: 60px;
+    color:white
+    font-family:Georgia, 'Times New Roman', Times, serif;
+      -moz-text-fill-color: black;
+ -webkit-text-fill-color:black ;
+    -moz-text-stroke-color: yellow;
+ -webkit-text-stroke-color: yellow;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+    
+    
+
+}
+#style{
+    text-align: center;
+}
+.puki{
+    width:450px;
+    height:150px;
+    border: 6px ridge yellow;
+}
+#w3review{
+    text-align: center;
+}
+.w3review{
+    text-align: center;
+}
+#kontener{
+    width: 800px;
+    margin: auto;
+    border: 5px solid darkgreen;
+    border-top: 5px solid darkgreen;
+
+}
+.repa{
+    float:right;
+    width: 200px;
+    height: 600px;
+    border: 6px ridge yellow;
+
+}
+.repa1{
+    float:left;
+    width: 200px;
+    height: 600px;
+    border: 6px ridge yellow;
+
+}
+
+.bemutatkozas{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:white
+}
+#kontener{
+    width: 1300px;
+            margin: auto;
+            border: 8px solid black;
+            border-top: 22px solid red;
+            background-color: olivedrab;
+}
+#credit{
+    text-align:center;
+
+}
+.credit1{
+    width: 100px;
+    height: 100px;
+}
+.epuletek{
+    height: 650px;
+    width: 1200px;
+    border: 6px ridge yellow;
+
+}
+#nyil{
+    text-align: center;
+}
+.udvozollek{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: yellow;
+    -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+
+}
+#uborka1{
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 2px;  
+ -webkit-text-stroke-width: 2px;
+}
+.udvozollek2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 78px;
+    color: yellow;
+    -moz-text-fill-color: yellow;
+ -webkit-text-fill-color:yellow ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 2px;  
+ -webkit-text-stroke-width: 2px;
+
+}
+
+.gomb101{
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background:whitesmoke;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display:inline-block;
+    color:cornsilk;
+}
+.gomb101:hover{
+    filter: invert(100%);
+    box-shadow: none;
+
+}
+.kinezet{
+width:1150px;
+height:650px;
+border: 6px ridge red;
+}

@@ -188,7 +188,7 @@ html, body{
 #kontener{
     width: 1300px;
             margin: auto;
-            border: 8px solid black;
+            border: 8px solid mediumblue;
             border-top: 22px solid red;
             background-color: grey;
 }

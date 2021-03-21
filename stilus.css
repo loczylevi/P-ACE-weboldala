@@ -164,13 +164,6 @@ html, body{
 .w3review{
     text-align: center;
 }
-#kontener{
-    width: 800px;
-    margin: auto;
-    border: 5px solid darkgreen;
-    border-top: 5px solid darkgreen;
-
-}
 .repa{
     float:right;
     width: 200px;
@@ -197,7 +190,7 @@ html, body{
             margin: auto;
             border: 8px solid black;
             border-top: 22px solid red;
-            background-color: olivedrab;
+            background-color: grey;
 }
 #credit{
     text-align:center;

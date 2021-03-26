@@ -271,3 +271,9 @@ width:1150px;
 height:650px;
 border: 6px ridge red;
 }
+
+#eragon{
+    @media screen {min-width:1000px ;
+    display: flex;    
+    }
+}

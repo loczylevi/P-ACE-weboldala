@@ -1,5 +1,5 @@
 
-
+@media screen and (min-width: 800px) {
 .fullscreen-bg{
     position:fixed;
     top:0;
@@ -304,6 +304,7 @@ border: 6px ridge red;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
 
+}
 }
 
 

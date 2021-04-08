@@ -7,6 +7,10 @@
     bottom:0;
     left:0;
     z-index: -100;
+    }
+    
+    
+    
 }
 html, body{
     height: 100%;
@@ -304,6 +308,6 @@ border: 6px ridge red;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
 }
-}
+
 
 

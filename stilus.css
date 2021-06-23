@@ -322,5 +322,20 @@ border: 6px ridge red;
     
 }
 
+.iframe-container{
+    position: relative;
+    width: 65%;
+    padding-bottom: 60.25%; 
+    height: 65;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 65;
+    width: 55%;
+    height: 55%;
+  }
+}
+
 
 

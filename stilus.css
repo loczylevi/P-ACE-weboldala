@@ -335,6 +335,17 @@ border: 6px ridge red;
     width: 60%;
     height: 65%;
   }
+#youtube{
+    float:right;
+}
+#youtube2{
+    float: right;
+}
+.igazitas{
+    width:80px;
+    height:80px;
+    border: 3px ridge black;
+}
 }
 
 

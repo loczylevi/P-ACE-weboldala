@@ -346,6 +346,13 @@ border: 6px ridge red;
     height:50px;
     border: 3px ridge black;
 }
+#kontener2{
+    width: 1300px;
+            margin: auto;
+            border: 1px solid red;
+            border-top: 1px solid red;
+            background-color: red;
+}
 }
 
 

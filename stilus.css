@@ -349,8 +349,8 @@ border: 6px ridge red;
 #kontener2{
     width: 1300px;
             margin: auto;
-            border: 1px solid mediumblue;
-            border-top: 1px solid mediumblue;
+            border: 3px solid red;
+            border-top: 3px solid red;
             background-color: grey;
 }
 }

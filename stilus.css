@@ -205,6 +205,27 @@ html, body{
             border-top: 22px solid red;
             background-color: grey;
 }
+#kontener_kek{
+    width: 1300px;
+            margin: auto;
+            border: 8px solid green;
+            border-top: 22px solid greenyellow;
+            background-color: mediumblue;
+}
+#feher_szoveg{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    -moz-text-fill-color: white;
+ -webkit-text-fill-color:white ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+
+
+}
+
 #credit{
     text-align:center;
 
@@ -357,6 +378,3 @@ border: 6px ridge red;
   color:grey;
 }
 }
-
-
-

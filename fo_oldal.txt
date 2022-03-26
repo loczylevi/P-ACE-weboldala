@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <link rel="shortcut icon" href="ujklanlogo2.png">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, initial-scale-1.0+">
+    <link rel="stylesheet" href="stilus.css">
+<title>HP_AL Weboldala</title>
+</head>
+<body>
+    <div id="eragon">
+<div class="fullscreen-bg">    
+<video loop muted autoplay poster="logo_.gif" class="fullscreen-bg-video">
+    <source src="logo_.gif">
+</video>
+</div>
+     <br></br>
+     <br></br> 
+    <div class="focim">Üdvözlünk A Hortobágyi Páncálos Alakulat-nál!</div> 
+    <div class="vfkozepre"></div>
+    <br></br>
+    <br></br>
+    <br></br> 
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+<div class="gombdoboz">
+    <a href="klanfelvetel.html"><div class="gomb">klán-Felvétel</div></a>
+    <a href="klanunkrol.html"><div class="gomb">klánunkról</div></a>
+    <br></br>
+<p class="cumi"><strong><i>"Egy jó csapat többet ér egy ezrednél"</p></strong></i>
+</div>
+</body>
+</html>

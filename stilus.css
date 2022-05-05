@@ -377,4 +377,11 @@ border: 6px ridge red;
 .liberte54{
   color:grey;
 }
+#uzenofal{
+    width: 760px;
+            margin: auto;
+            border: 8px solid mediumblue;
+            border-top: 22px solid red;
+            background-color: black;
+}
 }

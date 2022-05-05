@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <link rel="shortcut icon" href="ujklanlogo2.png">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stilus.css">
+    <link rel="stylesheet" href="master.css">
+    <title>Klán felvétel</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<body>
+    <header>
+        <div id="youtube">
+            <a href="https://www.youtube.com/channel/UCBUqLkvQLKvljQe075SQysw" target="_blank"><img class="igazitas" src="youtube3.png" alt="youtube" title="youtube"></a>
+        <div>
+            <div id="youtube">
+                <a href="https://www.facebook.com/groups/228961198902148" target="_blank"><img class="igazitas" src="fa.png" alt="facebook" title="facebook"></a>
+            <div>
+                <div id="youtube">
+            <a href="https://discord.gg/Ph8tNsupCy" target="_blank"><img class="igazitas" src="discord.png" alt="discord" title="discord"></a>
+        <div>
+    </header>
+    <div id="eragon">
+  <p id="style"><img class="puki" src="hpal.png" alt="HP_AL" title="HP_AL"></p>
+  <style>
+    body {
+      background-image: url('bela.jpg');
+    }
+    </style>
+    <strong>
+        <p id="uborka">
+            <div id="kontener">
+                <h1 class="udvozollek2">Üdvözöllek!</h1>
+  <strong>
+      <div id="feher_szoveg">
+          <li>Elvárásaink (HP-AL):</li>
+          <li>6-os tierben rendelkezz az alábbiak közül legalább az egyikkel:</li>
+          <p id ="style"><img id ="style" class="mini_tanks" src="heavy.png" alt="heavy class" title="heavy class"></p>
+          <div id="style">
+<img class="mini_tanks" src="vk_30.jpg" alt="VK 30.01 P" title="VK 30.01 P"><img class="mini_tanks" src="vk_36.jpg" alt="VK 36.01 H" title="VK 36.01 H"><img class="mini_tanks" src="tiger_131.jpg" alt="Tiger 131" title="Tiger 131"><img class="mini_tanks" src="t_150.jpg" alt="T-150" title="T-150"><img class="mini_tanks" src="ht_no6.jpg" alt="HT No. VI" title="HT No VI">
+              </div>
+ <p id ="style"><img class="mini_tanks" src="med2.png" alt="medium class" title="medium class"></p>
+          <div id="style">
+ <img class="mini_tanks" src="vk_30_02.jpg" alt="VK 30.02 M" title="VK 30.02 M"><img class="mini_tanks" src="t34.jpg" alt="T-34-85" title="T-34-85"><img class="mini_tanks" src="t34m.jpg" alt="T-34-85M" title="T-34-85M"><img class="mini_tanks" src="a43.jpg" alt="A-43" title="A-43"><img class="mini_tanks" src="m4.jpg" alt="M4A3E2" title="M4A3E2"><img class="mini_tanks" src="bret.jpg" alt="Bret. Panther" title="Bret. Panther"><img class="mini_tanks" src="cromwel.jpg" alt="Cromwell" title="Cromwell"><img class="mini_tanks" src="cromwelb.jpg" alt="Cromwell B" title="Cromwell B"><img class="mini_tanks" src="type58.jpg" alt="Type 58" title="Type 58"><img class="mini_tanks" src="pudel.jpg" alt="Pudel" title="Pudel"><img class="mini_tanks" src="rudy.jpg" alt="Rudy Pl" title="Rudy Pl">
+           </div>
+ <p id ="style"><img id ="style" class="mini_tanks" src="light2.png" alt="light class" title="light class"></p>
+          <div id="style">
+ <img class="mini_tanks" src="type64.jpg" alt="Type 64" title="Type 64">
+           </div>
+<li>8-as tierben rendelkezz az alábbiak közül legalább az egyikkel:</li>
+  <p id ="style"><img id ="style" class="mini_tanks" src="heavy.png" alt="heavy class" title="heavy class"></p>
+   <div id="style">
+       <img class="mini_tanks" src="tiger2.jpg" alt="Tiger 2" title="Tiger 2"><img class="mini_tanks" src="lowe.jpg" alt="Löwe" title="Löwe"><img class="mini_tanks" src="e_75_ts.jpg" alt="E 75 TS" title="E 75 TS"><img class="mini_tanks" src="is3.jpg" alt="IS-3" title="IS-3"><img class="mini_tanks" src="is3a.jpg" alt="IS-3A" title="IS-3A"><img class="mini_tanks" src="defender.jpg" alt="Defender" title="Defender"><img class="mini_tanks" src="252.jpg" alt="Obj. 252U" title="Obj. 252U"><img class="mini_tanks" src="703.jpg" alt="703 II (122)" title="703 II (122)"><img class="mini_tanks" src="is6.jpg" alt="IS-6" title="IS-6"><img class="mini_tanks" src="is6b.jpg" alt="IS-6 B" title="IS-6 B"><img class="mini_tanks" src="kv4.jpg" alt="KV-4" title="KV-4"><img class="mini_tanks" src="krajzer_gf.jpg" alt="Chrysler GF" title="Chrysler GF"><img class="mini_tanks" src="krajzer_k.jpg" alt="Chrysler K" title="Chrysler K"><img class="mini_tanks" src="t32.jpg" alt="T32" title="T32"><img class="mini_tanks" src="sima_mivy.jpg" alt="M-III-Y" title="M-III-Y"><img class="mini_tanks" src="prem_mivy.jpg" alt="M-IV-Y" title="M-IV-Y"><img class="mini_tanks" src="renegade.jpg" alt="Renegade" title="Renegade"><img class="mini_tanks" src="t26e5.jpg" alt="T26E5" title="T26E5"><img class="mini_tanks" src="patriout.jpg" alt="T25E5 P" title="T26E5 P"><img class="mini_tanks" src="ufo_feju.jpg" alt="M6A2E1" title="M6A2E1"><img class="mini_tanks" src="amx_m4_49.jpg" alt="AMX M4 49" title="AMX M4 49"><img class="mini_tanks" src="liberte.jpg" alt="AMX M4 49 L" title="AMX M4 49 L"><img class="mini_tanks" src="caernarvon.jpg" alt="Caernarvon" title="Caernarvon"><img class="mini_tanks" src="caernarvon_x.jpg" alt="Caernarvon AX" title="Caernarvon AX"><img class="mini_tanks" src="skoda_t56.jpg" alt="Skoda T 56" title="Skoda T 56"><img class="mini_tanks" src="50tp.jpg" alt="50TP pr." title="50TP pr."><img class="mini_tanks" src="emil_1.jpg" alt="Emil I" title="Emil I"><img class="mini_tanks" src="emil_1951.jpg" alt="EMIL 1951" title="EMIL 1951"><img class="mini_tanks" src="progetto_54.jpg" alt="Progetto 54" title="Progetto 54"><img class="mini_tanks" src="bisonte_c45.jpg" alt="Bisonte C45" title="Bisonte C45">
+         </div>  
+   <p id ="style"><img class="mini_tanks" src="med2.png" alt="medium class" title="medium class"></p>
+          <div id="style">
+        <img class="mini_tanks" src="kpz_07.jpg" alt="Kpz 07 RH" title="Kpz 07 RH"><img class="mini_tanks" src="t44_100.jpg" alt="T-44-100" title="T-44-100"><img class="mini_tanks" src="t54_mod_1.jpg" alt="T-54 mod. 1" title="T-54 mod. 1"><img class="mini_tanks" src="obj_274_a.jpg" alt="Obj. 274a" title="Obj. 274a"><img class="mini_tanks" src="t44.jpg" alt="T-44" title="T-44"><img class="mini_tanks" src="pershing.jpg" alt="Pershing" title="Pershing"><img class="mini_tanks" src="ambt.jpg" alt="AMBT" title="AMBT"><img class="mini_tanks" src="t_42.jpg" alt="T42" title="T42"><img class="mini_tanks" src="boroskola.jpg" alt="Bourrasque" title="Bourrasque"><img class="mini_tanks" src="lorr_40_t.jpg" alt="Lorr. 40 t" title="Lorr. 40 t"><img class="mini_tanks" src="ap_30.jpg" alt="A.P. AMX 30" title="A.P. AMX 30"><img class="mini_tanks" src="centurio_5_1.jpg" alt="Centurion 5/1" title="Centurion 5/1"><img class="mini_tanks" src="centurio_1.jpg" alt="Centurion I" title="Centurion I"><img class="mini_tanks" src="t34_2.jpg" alt="T-34-2" title="T-34-2"><img class="mini_tanks" src="t34_3.jpg" alt="T-34-3" title="T-34-3"><img class="mini_tanks" src="type59.jpg" alt="Type 59" title="Type 59"><img class="mini_tanks" src="skoda_t_27.jpg" alt="Skoda T 27" title="Skoda T 27"><img class="mini_tanks" src="cs52_lis.jpg" alt="CS-52 LIS" title="CS-52 LIS"><img class="mini_tanks" src="strv81.jpg" alt="Strv 81" title="Strv 81"><img class="mini_tanks" src="p_victoria.jpg" alt="P:Victoria" title="P:Victoria"><img class="mini_tanks" src="p44pantera.jpg" alt="P.44 Pantera" title="P.44 Pantera"><img class="mini_tanks" src="progetto46.jpg" alt="Progetto 46" title="Progetto 46">
+               </div>  
+        <p id ="style"><img id ="style" class="mini_tanks" src="light2.png" alt="light class" title="light class"></p>
+          <div id="style">
+              <img class="mini_tanks" src="lt432.jpg" alt="Lt-432" title="Lt-432"><img class="mini_tanks" src="bc_12.jpg" alt="B-C 12 t" title="B-C 12 t"><img class="mini_tanks" src="elc90.jpg" alt="ELC EVEN 90" title="ELC EVEN 90">
+              </div>  
+<li>Minden fejlesztési fában kifejleszthető tank amit a fentiekben felsoroltunk legyen kifullozva <i>(legjobb modul kifejlesztve megvéve)</i> </li>
+<li>Továbbá minimum 100%-os legénység legyen benne</li>
+<li>Komunikációhoz headset (füles mikrofonnal)</li>
+<li>Heti 2-szeri megjelenés osztaghoz</li>
+<li>Wn8-at nem nézünk személyes szituáció megoldó képességet nézünk</li>
+<li>Kölcsönös tisztelet</li>
+<li>A harctéri parancsnokok utasitásait a csapat érdekében követed</li>
+          </ul>
+
+</strong>
+</div>
+</div>
+            </div>
+</p>
+    <p id="uborka">Elérhetőségeink:</p>
+  </strong>
+    <ul>
+<strong>
+<li id="uborka1">Elérhetőek vagyunk a klánweboldalon müködő üzenetfalon! </li>
+<li id="uborka1">Ránk írhatsz játékon belül is! Toborzóink neve: Hunor_Magyar_77 , zsolti_12_2015 , mytezoo, dominiknunkovics</li>
+<li id="uborka1">Ha egyik toborzónkat nem éred el akkor probálkoz a másik toborzóval is!</li>
+<li id="uborka1">Vagy látogass el Discord szerverünkre!</li>
+<li id="uborka1">Vagy a youtube toborzó videonk alatt is elérhetőek vagyunk a hozzászólás menünél a következő linkre kattintva: </li>
+<div class="gombdoboz">
+  <a href="https://www.youtube.com/watch?v=oV5N1U7FJeo" target="_blank"><div class="gomb">A klánunk toborzó videójának megtekintéséhez kattintson ide</div></a>
+</div>
+</p>
+</strong>
+<img class="repa" src="repa.png" alt="HP_AL logó" title="HP_AL logó">
+<img class="repa1" src="repa.png" alt="HP_AL logó" title="HP_AL logó">
+    <div class="gombdoboz">
+    <a href="https://eu.wargaming.net/clans/wot/500159131/" target="_blank"><div class="gomb">A Wargaming-os klán profilunk</div></a>
+  </div>
+  <div class="gombdoboz">
+  <a href="https://discord.gg/Ph8tNsupCy" target="_blank"><div class="gomb">Discord csoportunk</div></a>
+</div>
+    </ul>
+    <div class="gombdoboz">
+    <p id="uborka1"><strong>
+    Hunor_Magyar_77 email-je:</p></strong>
+    
+    <p class="gomb101"><a href="mailto:loczy2003@gmail.com">itt tudsz Hunornak e-mailt küldeni, a linkre kattintva:</a></p>
+  </div>
+<br>
+            <div class="gombdoboz"><strong>
+<p id="uborka1"> dominiknunkovics email-je:<br></p></strong>
+    <p class="gomb101"><a href="mailto:dominiknunkovics@gmail.com">itt tudsz Dominiknak e-mailt küldeni, a linkre kattintva:</a></p>
+  </div>
+            
+            <div class="gombdoboz"><strong>
+<p id="uborka1"> mytezoo email-je:<br></p></strong>
+    <p class="gomb101"><a href="mailto:tothbotond48@gmail.com">itt tudsz mytezoonak e-mailt küldeni, a linkre kattintva:</a></p>
+  </div>
+     <div id="style">
+            <iframe src="https://www5.cbox.ws/box/?boxid=934555&boxtag=UcaqMr" width="750" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
+     </div>
+ <div class="gombdoboz">
+  <a href="index.html"><div class="gomb">Ugrás vissza a főmenüre</div></a>
+</div>   
+    <p id="style"><img class="kinezet" src="reklam5.png" alt="Csatlakozz!" title="Csatlakozz!"></p>             
+</div>
+</body>
+</head>
+<body>

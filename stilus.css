@@ -319,9 +319,11 @@ border: 6px ridge red;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
  margin: auto;
- background-color:rgba(0,0,0,0.5);
- border-radius: 15px;
  width: 600px;
+}
+.hatter_box{
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 15px;
 }
 .tartalomjegyzek{
     font-family: 'Times New Roman', Times, serif;

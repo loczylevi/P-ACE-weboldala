@@ -332,6 +332,8 @@ li{
     list-style-image: url(tonk_silueth2.png);
     float: left;
     margin-left: 40px;
+    width: 40px;
+    height: 40px;
     
 }
 .tartalomjegyzek{

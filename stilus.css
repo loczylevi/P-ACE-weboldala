@@ -230,12 +230,6 @@ html, body{
     text-align:center;
 
 }
-li{
-    list-style-image: url(tonki_monki.png);
-    float: left;
-    margin-left: 40px;
-    
-}
 .credit1{
     width: 100px;
     height: 100px;

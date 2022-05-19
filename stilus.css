@@ -328,6 +328,10 @@ border: 6px ridge red;
     background-color: rgba(0,0,0,0.70);
     border-radius: 15px;
 }
+li{
+    list-style-image: url(tonk_silueth2.png);
+    
+}
 .tartalomjegyzek{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;

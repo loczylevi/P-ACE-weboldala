@@ -330,6 +330,8 @@ border: 6px ridge red;
 }
 li{
     list-style-image: url(tonk_silueth2.png);
+    float: left;
+    margin-left: 40px;
     
 }
 .tartalomjegyzek{

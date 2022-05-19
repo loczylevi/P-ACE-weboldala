@@ -324,10 +324,6 @@ border: 6px ridge red;
  background-color: grey;
  width: 600px;
 }
-.hatter_box{
-    background-color: rgba(0,0,0,0.70);
-    border-radius: 15px;
-}
 .tartalomjegyzek{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;

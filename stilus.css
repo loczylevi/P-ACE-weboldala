@@ -381,6 +381,26 @@ border: 6px ridge red;
 .liberte54{
   color:grey;
 }
+footer {
+  text-align: center;
+  padding: 3px;
+  color: white;
+  font-family: "Times New Roman";
+}
+
+.cicoma{
+    height: 250px;
+    width: 250px;
+    border: 3px solid black;
+}
+.cicoma2{
+    font-size: 75px;
+    color:white;
+    text-align: center;
+}
+.sarga{
+    border: 6px ridge yellow;
+}
 #uzenofal{
     width: 760px;
             margin: auto;

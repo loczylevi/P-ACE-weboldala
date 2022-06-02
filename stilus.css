@@ -108,6 +108,9 @@ html, body{
 .fejlec_vkozepre{
     text-align: center;
 }
+.kerekites{
+    border-radius: 15px;
+}
 .focim{
     width: 800px;
     margin: auto;

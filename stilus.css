@@ -155,10 +155,10 @@ html, body{
 #uborka{
     text-align: center;
     font-size: 60px;
-    color:white
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
       -moz-text-fill-color: black;
- -webkit-text-fill-color:black ;
+ -webkit-text-fill-color: black;
     -moz-text-stroke-color: yellow;
  -webkit-text-stroke-color: yellow;
     -moz-text-stroke-width: 1px;  
@@ -208,7 +208,7 @@ ol li {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    color:white
+    color:white;
 }
 #kontener{
     width: 1300px;
@@ -345,7 +345,7 @@ border-radius: 25px;
 .tartalomjegyzek{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    color:white
+    color:white;
 }
 #uborka666{
     text-align: center;

@@ -199,3 +199,13 @@ border-radius: 25px;
 .feher{
     color: white;
 }
+#youtube{
+    float:right;
+}
+
+.igazitas{
+    width:50px;
+    height:50px;
+    border: 3px ridge black;
+    border-radius: 25px;
+}

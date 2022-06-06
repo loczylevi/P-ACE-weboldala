@@ -171,6 +171,9 @@ html, body{
 #style{
     text-align: center;
 }
+.gold{
+    border: 3px ridge goldenrod;
+}
 ol li {
   padding: 10px;
   margin-left: 35px;

@@ -394,7 +394,9 @@ border-radius: 25px;
     height:50px;
     border: 3px ridge mediumblue;
     border-radius: 25px;
+    float:right;
 }
+
 nav{
     float: right;
     line-height: 100px;

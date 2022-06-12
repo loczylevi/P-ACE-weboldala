@@ -91,6 +91,25 @@
     margin-left: -140%;
 }
 
+#radio9:checked ~ .first{
+    margin-left: -160%;
+}
+#radio10:checked ~ .first{
+    margin-left: -180%;
+}
+#radio11:checked ~ .first{
+    margin-left: -200%;
+}
+#radio12:checked ~ .first{
+    margin-left: -220%;
+}
+#radio13:checked ~ .first{
+    margin-left: -240%;
+}
+#radio14:checked ~ .first{
+    margin-left: -260%;
+}
+
 .navigation-auto{
     position: absolute;
     display: flex;
@@ -143,6 +162,32 @@
 #radio8:checked ~ .navigation-auto .auto-btn8{
     background: lightskyblue;
 }
+
+#radio9:checked ~ .navigation-auto .auto-btn9{
+    background: lightskyblue;
+}
+
+#radio10:checked ~ .navigation-auto .auto-btn10{
+    background: lightskyblue;
+}
+
+#radio11:checked ~ .navigation-auto .auto-btn11{
+    background: lightskyblue;
+}
+
+#radio12:checked ~ .navigation-auto .auto-btn12{
+    background: lightskyblue;
+}
+
+#radio13:checked ~ .navigation-auto .auto-btn13{
+    background: lightskyblue;
+}
+
+#radio14:checked ~ .navigation-auto .auto-btn14{
+    background: lightskyblue;
+}
+
+
 
 .gomb{
     width: 200px;

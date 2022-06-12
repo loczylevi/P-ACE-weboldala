@@ -386,12 +386,47 @@ border-radius: 25px;
 #youtube2{
     float: right;
 }
+
+/* fix fisz fejléc mindig egyhelybe van ---_ eleje */
+
 .igazitas{
     width:50px;
     height:50px;
-    border: 3px ridge black;
+    border: 3px ridge mediumblue;
     border-radius: 25px;
 }
+nav{
+    float: right;
+    line-height: 100px;
+
+}
+
+nav a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin: 0 10px;
+    color: #fff;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+header{
+    height: 100px;
+    background: #262626;
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+    border: 4px solid green;
+    border-top: 4px solid darkgreen;
+    border-radius: 15px;
+}
+
+/* fix fisz fejléc mindig egyhelybe van ---_ vége */
+
 #kontener2{
     width: 1300px;
             margin: auto;

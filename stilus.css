@@ -397,6 +397,13 @@ border-radius: 25px;
     float:right;
 }
 
+.igazitas_klanunkrol{
+    width:50px;
+    height:50px;
+    border: 3px ridge mediumblue;
+    border-radius: 25px;
+}
+
 nav{
     float: right;
     line-height: 100px;

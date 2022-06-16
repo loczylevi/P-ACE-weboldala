@@ -19,8 +19,8 @@
 }
 html, body{
     height: 100%;
-    margin: 0;
-    padding: 0;
+    margin: 0; /* kulso margo */
+    padding: 0; /* belso margo */
 
 }
 .fejlec{

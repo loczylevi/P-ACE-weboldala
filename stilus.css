@@ -424,6 +424,7 @@ nav a{
     margin: 0 auto;
 }
 header{
+    animation: fejlec 2s 1;     /* fejléc eltüntetése 2 másodpercig */
     height: 100px;
     background: #262626;
     width: 100%;
@@ -451,6 +452,12 @@ header{
     0%   {left: 0px;}
     100% {left: -2000px;}
     /*100% {opacity:  0;}*/
+}
+
+/* fejléc eltüntetése 2 másodpercig */
+@keyframes fejlec {
+    0%   {opacity:  0;}
+    100% {opacity:  0;}
 }
 
 /* kép animáció jobbrol balra --> vége */

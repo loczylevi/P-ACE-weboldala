@@ -454,6 +454,12 @@ header{
     /*100% {opacity:  0;}*/
 }
 
+@keyframes gomb_eltunes {
+    0%   {opacity:  0;}
+    100% {opacity:  0;}
+    /*100% {opacity:  0;}*/
+}
+
 /* fejléc eltüntetése 10 másodpercig */
 @keyframes fejlec {
     from {
@@ -513,7 +519,7 @@ footer {
     color: white;
 }
 #felGomb {
-    animation: fejlec 10s 1;
+    animation: gomb_eltunes 4s 1;
     position: fixed;
     left: 10px;
     border: none;

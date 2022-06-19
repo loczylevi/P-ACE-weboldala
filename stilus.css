@@ -506,6 +506,7 @@ footer {
     color: white;
 }
 #felGomb {
+    animation: fejlec 2s 1;
     position: fixed;
     left: 10px;
     border: none;

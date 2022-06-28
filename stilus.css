@@ -439,7 +439,7 @@ header{
 
 /* kép animáció jobbrol balra */
 .eltunes{
-    float:right;
+    float:left;
     /*max-width: 100%; */
     /* margin-right: 0px; */
     max-height: 100%;

@@ -445,15 +445,19 @@ header{
     max-height: 100%;
     position: absolute;
     top: 0;
-    left: -100000px;
+    /*left: -100000px;*/ 
+    left: -3000px;
     animation: mymove 4s 1;
     position: fixed;
 }
 
 @keyframes mymove {
-    0%   {left: 0px;}
-    100% {left: -2000px;}
+    /*0%   {left: 0px;}*/
+    /*100% {left: -2000px;}*/
     /*100% {opacity:  0;}*/
+    0%   {left: -30%;}
+    100% {left: -200%;}
+    
 }
 
 @keyframes gomb_eltunes {

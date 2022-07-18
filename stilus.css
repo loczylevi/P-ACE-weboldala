@@ -541,5 +541,10 @@ footer {
     
   }
 
+abbr[title] {
+    text-decoration: none;
+    
+}
+
 }
 

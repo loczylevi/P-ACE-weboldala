@@ -406,7 +406,7 @@ border-radius: 25px;
 
 nav{
     float: right;
-    line-height: 100px;
+    line-height: 150px; /* line-height: 100px;*/
 
 }
 

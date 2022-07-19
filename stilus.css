@@ -403,7 +403,7 @@ border-radius: 25px;
     border: 3px ridge mediumblue;
     border-radius: 25px;
 }
-
+/*
 nav{
     float: right;
     line-height: 100px;
@@ -424,7 +424,7 @@ nav a{
     margin: 0 auto;
 }
 header{
-    animation: fejlec 10s 1;     /* fejléc eltüntetése 10 másodpercig */
+    animation: fejlec 10s 1;      fejléc eltüntetése 10 másodpercig 
     height: 100px;
     background: #262626;
     width: 100%;
@@ -435,9 +435,52 @@ header{
     border-radius: 15px;
 }
 
-/* fix fisz fejléc mindig egyhelybe van ---_ vége */
+ fix fisz fejléc mindig egyhelybe van ---_ vége 
 
-/* kép animáció jobbrol balra */
+*/
+nav{
+    float: right;
+    line-height: 150px;
+
+}
+
+nav a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin: 0 10px;
+    color: #fff;
+    padding: 15px;
+    background-image: url(fem.png);
+    text-align: center;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+    
+
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+header{
+    animation: fejlec 10s 1;      /*fejléc eltüntetése 10 másodpercig */
+    height: 100px;
+    background-image: url('fejlec.png');
+    max-height: auto;
+    background-repeat: repeat;
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+    border: 4px solid green;
+    border-top: 4px solid darkgreen;
+    border-radius: 15px;
+    background-color: gray;
+}
+/*  kép animáció jobbrol balra */
 .eltunes{
     /*float:left;*/
     /*max-width: 100%; */

@@ -406,7 +406,7 @@ border-radius: 25px;
 
 nav{
     float: right;
-    line-height: 150px; /* line-height: 100px;*/
+    line-height: 100px;
 
 }
 
@@ -426,7 +426,7 @@ nav a{
 header{
     animation: fejlec 10s 1;     /* fejléc eltüntetése 10 másodpercig */
     height: 100px;
-    background-image: url(fejlec3.png);
+    background: #262626;
     width: 100%;
     z-index: 12;
     position: fixed;

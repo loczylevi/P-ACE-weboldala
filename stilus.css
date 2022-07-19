@@ -426,7 +426,7 @@ nav a{
 header{
     animation: fejlec 10s 1;     /* fejléc eltüntetése 10 másodpercig */
     height: 100px;
-    background: #262626;
+    background-image: url(fejlec3.png);
     width: 100%;
     z-index: 12;
     position: fixed;

@@ -204,11 +204,23 @@
     color:cornsilk;
 }
 .gomb:hover{
+    animation: gomb_lecsuszik 4s 1; 
     cursor: pointer;
     filter: invert(100%);
     box-shadow: none;
 
 }
+
+@keyframes gomb_lecsuszik {
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(25px);
+    }
+}
+
 .gomb:active{
   box-shadow: 0px 5px 10px grey;
 }

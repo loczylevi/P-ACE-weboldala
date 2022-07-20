@@ -569,7 +569,6 @@ footer {
     color: white;
 }
 #felGomb {
-    animation: gomb_eltunes 4s 1;
     position: fixed;
     left: 10px;
     border: none;
@@ -581,7 +580,6 @@ footer {
     border-radius: 10px; 
     }
   #felGomb:hover {
-    animation: gomb_lecsuszik 4s 1; 
     background-color:  #555;
     
   }

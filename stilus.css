@@ -533,8 +533,8 @@ header{
 }
 
 .gomb_fem{
-    animation-name: fejlec;             /*  fém gombok eltüntetése 5 másodpercig */
-    animation-duration: 5s;
+    animation-name: fejlec;             /*  fém gombok eltüntetése 10 másodpercig */
+    animation-duration: 10s;
     animation-iteration-count: 1;
     /*width: 200px;*/
     margin: 10px;

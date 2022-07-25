@@ -533,6 +533,7 @@ header{
 }
 
 .gomb_fem{
+    animation: fejlec 10s 1;    /*  fém bombok eltüntetése 10 másodpercig */
     /*width: 200px;*/
     margin: 10px;
     padding: 15px;

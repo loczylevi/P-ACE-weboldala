@@ -455,7 +455,7 @@ nav{
 
 nav{
     position: fixed;
-    line-height: 60px;
+    line-height: 110px;   /*  60px volt*/
 
 }
 
@@ -539,7 +539,7 @@ header{
     /*width: 200px;*/
     margin: 10px;
     padding: 15px;
-    background-image: url(fem.jpg);
+    background-image: url(gomb_4.png);
     text-align: center;
     font-family: Verdana;
     font-size: 16px;

@@ -204,7 +204,10 @@
     color:cornsilk;
 }
 .gomb:hover{
-    animation: gomb_lecsuszik 4s 1; 
+    /*animation: gomb_lecsuszik 4s 1; */
+    animation-name: gomb_lecsuszik;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
     cursor: pointer;
     filter: invert(100%);
     box-shadow: none;

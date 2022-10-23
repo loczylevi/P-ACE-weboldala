@@ -268,7 +268,13 @@ border-radius: 25px;
     height:50px;
     border: 3px ridge black;
     border-radius: 25px;
+    transition: transform  0.3s;
 }
+.igazitas:hover {
+    transform: scale(1.2);
+    cursor: pointer;   
+}
+
 /* kép animáció jobbrol balra */
 .eltunes{
     max-width: 100%;

@@ -399,6 +399,8 @@ border-radius: 25px;
     border: 3px ridge mediumblue;
     border-radius: 25px;
     float:right;
+    transition: transform  0.3s;
+    
 }
 
 .igazitas_klanunkrol{
@@ -406,6 +408,10 @@ border-radius: 25px;
     height:50px;
     border: 3px ridge mediumblue;
     border-radius: 25px;
+}
+.igazitas:hover{
+    transform: scale(1.2);
+    cursor: pointer;
 }
 /*
 nav{
@@ -704,11 +710,14 @@ footer {
     cursor: pointer;
     padding: 10px;
     border-radius: 10px; 
-    }
+    transition: transform  0.3s;
+}
+
   #felGomb:hover {
     background-color:  #555;
+    transform: scale(1.2);
     
-  }
+}
 
 abbr[title] {
     text-decoration: none;

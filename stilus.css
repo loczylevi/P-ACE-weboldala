@@ -682,7 +682,7 @@ footer {
     transition: transform  0.3s;
 }
 .cicoma:hover{
-    transform: scale(1.2);
+    transform: scale(1.2) rotate(-10deg);
     cursor: pointer;
 }
 .cicoma2{

@@ -551,9 +551,9 @@ header{
 }
 
 .gomb_fem{
-    animation-name: fejlec;             /*  fém gombok eltüntetése 10 másodpercig */
+    /*animation-name: fejlec;               fém gombok eltüntetése 10 másodpercig 
     animation-duration: 10s;
-    animation-iteration-count: 1;
+    animation-iteration-count: 1;*/
     /*width: 200px;*/
     margin: 10px;
     padding: 15px;
@@ -568,6 +568,11 @@ header{
     display:inline-block;
     color:cornsilk;
     
+}
+.gomb_fem_eltunese_egyszer {
+    animation-name: fejlec;             /*  fém gombok eltüntetése 10 másodpercig */
+    animation-duration: 10s;
+    animation-iteration-count: 1;
 }
 
 .gomb_fem:hover{

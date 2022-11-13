@@ -560,8 +560,8 @@ header{
     
 }
 .only_once{
-    animation-name: fejlec;             /*  fém gombok eltüntetése 10 másodpercig */
-    animation-duration: 10s;
+    animation-name: fejlec;             /*  fém gombok eltüntetése 11 másodpercig */
+    animation-duration: 11s;
     animation-iteration-count: 1;
 }
 

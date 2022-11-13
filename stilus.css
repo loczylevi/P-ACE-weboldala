@@ -23,6 +23,11 @@ html, body{
     padding: 0; /* belso margo */
 
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 .fejlec{
     font-family: Arial;
     position:absolute;

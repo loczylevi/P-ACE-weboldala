@@ -23,18 +23,6 @@ html, body{
     padding: 0; /* belso margo */
 
 }
-/* fejléc eltüntetése 10 másodpercig */
-@keyframes fejlec {
-    from {
-        opacity: 0;
-        transform: translateY(-10px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
 .fejlec{
     font-family: Arial;
     position:absolute;
@@ -551,9 +539,9 @@ header{
 }
 
 .gomb_fem{
-    /*animation-name: fejlec;               fém gombok eltüntetése 10 másodpercig 
+    animation-name: fejlec;             /*  fém gombok eltüntetése 10 másodpercig */
     animation-duration: 10s;
-    animation-iteration-count: 1;*/
+    animation-iteration-count: 1;
     /*width: 200px;*/
     margin: 10px;
     padding: 15px;
@@ -568,11 +556,6 @@ header{
     display:inline-block;
     color:cornsilk;
     
-}
-.gomb_fem_eltunese_egyszer {
-    animation-name: fejlec;             /*  fém gombok eltüntetése 10 másodpercig */
-    animation-duration: 10s;
-    animation-iteration-count: 1;
 }
 
 .gomb_fem:hover{
@@ -656,6 +639,19 @@ header{
     0%   {opacity:  0;}
     100% {opacity:  0;}
     /*100% {opacity:  0;}*/
+}
+
+/* fejléc eltüntetése 10 másodpercig */
+@keyframes fejlec {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* kép animáció jobbrol balra --> vége */

@@ -5,5 +5,5 @@ window.addEventListener(('load'), () => {
   })
 
   if (window.sessionStorage.getItem('Heading')) {
-    document.querySelector('#heading').classList.remove('fejlec')
+    document.querySelector('#heading').classList.remove('only_once')
   }

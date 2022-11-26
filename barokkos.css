@@ -101,7 +101,11 @@
 .gomb:hover{
    transform: scale(1.2);
 }
-
+.feher{
+   color: white;
+   font-size: 20px;
+   font-weight: normal;
+}
 
 /*-_______________________________________________________________________-*/
 

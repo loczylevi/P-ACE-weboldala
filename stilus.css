@@ -534,7 +534,7 @@ header{
 header{
     animation: fejlec 10s 1;    /*  fejléc eltüntetése 10 másodpercig */
     height: 65px; 
-    background-image: url('fejlec.png');
+    background-image: url('fejlesztett_fejlec.png');
     max-height: auto;
     background-repeat: repeat;
     width: 100%;

@@ -1,0 +1,616 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.kontener69{
+                    border: 2px solid #ffff00;
+                    border-top: 10px solid #ffff00;
+                    border-right: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                    background-color: black;
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+
+                }
+
+/*
+.kontener{
+    border: 2px solid red;
+    border-top: 10px solid rgb(123, 0, 0);
+    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+    /*background-image: linear-gradient(to bottom right, red, grey);
+    background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));
+    border-radius: 25px;
+}
+*/
+.kontener{
+                    border: 2px solid #ffff00;
+                    border-top: 10px solid #ffff00;
+                    border-left: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                    background-color: black;
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+                    
+
+                }
+.kontener2{
+                    border: 2px solid #ffff00;
+                    border-right: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                    background-color: black;
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+                    
+
+                }
+.kontener3{
+                    border: 2px solid #ffff00;
+                    border-bottom: 10px solid #ffff00;
+                    border-left: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                    background-color: black;
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+                    
+
+                }
+.kontener4{
+                    border: 2px solid #ffff00;
+                    border-bottom: 10px solid #ffff00;
+                    border-right: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                    background-color: black;
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+                    
+
+                }
+.kontener5{
+                    border: 2px solid #ffff00;
+                    border-right: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                    background-color: black;
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+                    
+
+                }
+.kontener6{
+                    border: 2px solid #ffff00;
+                    border-left: 4px solid #ffff00;
+                    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+                     background-color: black; 
+                    /*background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));*/
+                    border-radius: 25px;
+                    
+
+                }
+/*.kontener3{
+   border: 2px solid white;
+   border-top: 10px solid white;
+   background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0,65,0,1));
+   background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(0,65,0,1));
+   background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(107,107,107,0));
+   color: black;
+   7a00b3
+   border-radius: 25px;
+}
+*/
+.udvozollek{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: #ffff00;
+    -moz-text-fill-color: #ffff00;
+ -webkit-text-fill-color:#ffff00 ;
+    -moz-text-stroke-color: #ffff00;
+ -webkit-text-stroke-color: #ffff00;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+  
+
+}
+
+.szoveg{
+   /*text-align: center;*/
+   font-size: 25px;
+   color: #ffff00;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+
+
+}
+.hpal_logo {
+   border: 6px ridge yellow;
+   border-radius: 5px;
+   max-width: 20%;
+   height: auto;
+}
+
+#feher_szoveg{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 40px;
+   color: #ffff00;
+   -moz-text-fill-color: #ffff00;
+-webkit-text-fill-color:#ffff00 ;
+   -moz-text-stroke-color: #ffff00;
+-webkit-text-stroke-color: #ffff00;
+   -moz-text-stroke-width: 1px;  
+-webkit-text-stroke-width: 1px;
+
+
+}
+
+.udvozollek2{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   color: yellow;
+   -moz-text-fill-color: black;
+-webkit-text-fill-color:black ;
+   -moz-text-stroke-color: yellow;
+-webkit-text-stroke-color: yellow;
+   -moz-text-stroke-width: 1px;  
+-webkit-text-stroke-width: 1px;
+   
+
+}
+.tonkok{
+   max-width: 45%;
+   height: auto;
+}
+.info{
+   max-width: 3%;
+   height: auto;
+   border-radius: 40px;
+}
+.info:hover{
+   cursor: pointer;
+   filter: invert(100%);
+}
+.gomb{
+   transition: transform  0.3s;
+}
+.gomb:hover{
+   transform: scale(1.2);
+}
+.feher{
+   color: #ffff00;
+   font-size: 20px;
+   font-weight: normal;
+}
+.cicoma{
+  border-radius: 5px;
+  border: 2px solid #ffff00;
+}
+
+/*-_______________________________________________________________________-*/
+
+#myImg {
+   cursor: pointer;
+   transition: 0.3s;
+ }
+ 
+ #myImg:hover {
+   opacity: 0.7;
+ }
+ 
+ .modal {
+   display: none;
+   /* Hidden by default */
+   position: fixed;
+   /* Stay in place */
+   z-index: 1;
+   /* Sit on top */
+   padding-top: 100px;
+   /* Location of the box */
+   left: 0;
+   top: 0;
+   width: 100%;
+   /* Full width */
+   height: 100%;
+   /* Full height */
+   overflow: auto;
+   /* Enable scroll if needed */
+   background-color: rgb(0, 0, 0);
+   /* Fallback color */
+   background-color: rgba(0, 0, 0, 0.9);
+   /* Black w/ opacity */
+ }
+ 
+ .modal-content {
+   margin: auto;
+   display: block;
+   width: 80%;
+   max-width: 1000px;
+ }
+ 
+ #caption {
+   margin: auto;
+   display: block;
+   width: 80%;
+   max-width: 700px;
+   text-align: center;
+   color: #ccc;
+   padding: 10px 0;
+   height: 150px;
+ }
+ 
+ .modal-content,
+ #caption {
+   animation-name: zoom;
+   animation-duration: 0.6s;
+ }
+ 
+ @keyframes zoom {
+   from {
+     transform: scale(0)
+   }
+   to {
+     transform: scale(1)
+   }
+ }
+ 
+ .close {
+   position: absolute;
+   top: 15px;
+   right: 35px;
+   color: #f1f1f1;
+   font-size: 40px;
+   font-weight: bold;
+   transition: 0.3s;
+ }
+ 
+ .close:hover,
+ .close:focus {
+   color: #ffff00;
+   text-decoration: none;
+   cursor: pointer;
+ }
+ 
+ @media only screen and (max-width: 700px) {
+   .modal-content {
+     width: 100%;
+   }
+ }
+ 
+.sorkizatz {
+   text-align: justify;
+  text-justify: inter-word;
+}
+
+header {
+   position: fixed;
+}
+
+/*fejlec*/
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+#youtube{
+    float: right;
+}
+#bal{
+    float: left;
+}
+#youtube2{
+    float: right;
+}
+
+/* fix fisz fejléc mindig egyhelybe van ---_ eleje */
+
+.akadaly{
+    width:50px;
+    height:50px;
+    border: 3px ridge black;
+    border-radius: 30px;
+    float:right;
+    transition: transform  0.3s;
+    z-index: 950;
+    margin: 0 5px;
+  background-color: #ffff00;
+
+}
+
+.akadaly:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    filter: invert(100%);
+  background-color: white;
+
+}
+
+.igazitas_klanunkrol{
+    width:50px;
+    height:50px;
+    border: 3px ridge black;
+    border-radius: 25px;
+}
+
+
+.igazitas{
+    width:50px;
+    height:50px;
+    /*border: 6px ridge #ffff00;*/
+    border-radius: 5px;
+    float:right;
+    transition: transform  0.3s;
+    z-index: 950;
+    margin: 0 5px;
+    
+}
+
+.igazitas:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+    filter: invert(100%);
+  background-color: black;
+    
+    
+}
+/*
+
+nav{
+    position: fixed;
+    line-height: 110px;   60px volt
+
+}
+
+
+
+nav a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;                 
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+*/
+/*position:absolute, position:relative, or position:fixed*/
+
+    /*
+nav a:hover{
+    color: black;
+}
+*/
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+/*
+header{
+    animation: fejlec 10s 1;      
+    height: 100px;
+    background-image: url('fejlec.png');
+    max-height: auto;
+    background-repeat: repeat;
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+    border: 4px solid green;
+    border-top: 4px solid darkgreen;
+    border-radius: 15px;
+    background-color: gray;
+}
+*/
+
+
+/*header{
+    animation: fejlec 10s 1;    /*  fejléc eltüntetése 10 másodpercig 
+    height: 54px; 
+    /*background-image: url('images/fejlec.png');
+    max-height: auto;
+    background-repeat: repeat;
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+    /*border: 4px solid green;*/
+    /*border-top: 4px solid darkgreen;
+    background-color: black;
+    border-bottom: 3px ridge #ffff00;
+}*/
+
+
+#felGomb {
+    animation: gomb_eltunes 5s 1;
+    position: fixed;
+    left: 10px;
+    border: none;
+    outline: none;
+    background-color: #ffff00;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px; 
+    transition: transform  0.3s;
+    top:90%;
+}
+
+  #felGomb:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.2);
+    border: 3px solid #ffff00;
+    
+}
+
+.kepremutato:hover{
+  color:#6E0A1E;
+  font-style: italic;
+  text-decoration: none;
+}
+/*matematikai törst rész (1/2) */
+
+.frac {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  letter-spacing: 0.001em;
+  text-align: center;
+}
+.frac > span {
+  display: block;
+  padding: 0.1em;
+}
+.frac span.bottom {
+  border-top: thin solid #ffff00;
+}
+.frac span.symbol {
+  display: none;
+} 
+.igazitas{
+  width:50px;
+  height:50px;
+  border: 6px ridge #80002d;
+  border-radius: 5px;
+  float:right;
+  transition: transform  0.3s;
+  z-index: 950;
+  margin: 0 5px;
+}
+.igazitas2{
+  width:50px;
+  height:50px;
+  border: 6px ridge #80002d;
+  border-radius: 30px;
+  float:right;
+  transition: transform  0.3s;
+  z-index: 950;
+  background-color: rgb(0, 0, 61);
+  margin: 0 5px;
+}
+.igazitas:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+  filter: invert(100%);
+  background-color: cyan;
+  
+  
+}
+.igazitas2:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+  filter: invert(100%);
+  background-color: cyan;
+  
+  
+}
+body {
+  background-color: black;
+}
+.ravisz{
+  color: white;
+}
+
+.ravisz:hover{
+  font-style: italic;
+  text-decoration: none;
+  color:red;
+
+}
+.puki{
+  border: 6px ridge #ffff00;
+  border-radius: 5px;
+  max-width: 25%;
+  height: auto;
+  border-radius: 20px;
+}
+#style{
+  text-align: center;
+}
+.epuletek{
+  height: auto;
+  width: 90%;
+  border: 6px ridge #ffff00;
+  border-radius: 25px;
+
+}
+.credit1{
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+}
+/*-----------------------*/
+.video_cicoma {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-video-cicoma {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 60%;
+  height: 60%;
+  border: none;
+}
+.kerekites{
+  border-radius: 15px;
+}
+.gomb{
+  width: 200px;
+  margin: 10px;
+  padding: 15px;
+  background:#ffff00;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 16px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #000;
+  display:inline-block;
+  color:black;
+  transition: transform  0.3s;
+  text-decoration: none;
+}
+.gomb:hover{
+  /*animation: gomb_lecsuszik 4s 1; 
+  animation-name: gomb_lecsuszik;
+  animation-duration: 4s;  
+  animation-fill-mode: forwards;*/
+  cursor: pointer;
+  filter: invert(100%);
+  box-shadow: none;
+  transform: scale(1.2);
+  color: black;
+
+}
+.kinezet{
+  height: auto;
+  width: 65%;
+border: 6px ridge #ffff00;
+border-radius: 25px;
+}
+
+.igazitas{
+  width:50px;
+  height:50px;
+  border: 6px ridge #80002d;
+  border-radius: 5px;
+  float:right;
+  transition: transform  0.3s;
+  z-index: 950;
+  margin: 0 5px;
+  background-color: rgb(0, 0, 61);
+}
+.igazitas:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+  filter: invert(100%);
+  background-color: cyan;
+  
+  
+}

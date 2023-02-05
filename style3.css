@@ -751,3 +751,15 @@ border-radius: 25px;
    text-align: center;
    border-radius: 25px;
 }
+
+@media (max-width: 768px) 
+{
+   .kontener
+   {
+      font-size: 20px; 
+   }
+   .udvozollek
+   {
+       font-size:40px;
+   }
+}

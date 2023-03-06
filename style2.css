@@ -614,3 +614,23 @@ border-radius: 25px;
   
   
 }
+
+
+
+
+.cimer{
+   width:25%;
+   height: auto;
+   border: 6px ridge #ffff00;
+   border-radius: 20px;
+}
+
+
+@media (max-width: 768px){
+   .cimer{
+      width:60%;
+   height:"auto";
+   
+   }
+
+}

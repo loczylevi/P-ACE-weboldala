@@ -634,3 +634,11 @@ border-radius: 25px;
    }
 
 }
+
+@media (max-width: 768px) 
+{
+   .udvozollek
+   {
+       font-size:40px;
+   }
+}

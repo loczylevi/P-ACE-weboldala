@@ -1,0 +1,138 @@
+body {
+    background-color: black;
+}
+
+.doboz{
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    text-transform: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    color:cornsilk;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) 
+{
+   .doboz{
+    font-size: 40px;
+   }
+   .cumi{
+    font-size: 40px;
+   }
+
+
+}
+
+.gombdoboz{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.gomb{
+    
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display:inline-block;
+    color:cornsilk;
+    transition: transform  0.3s;
+    font-weight: bold;
+}
+.gomb:hover{
+    /*animation: gomb_lecsuszik 4s 1; 
+    animation-name: gomb_lecsuszik;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;*/
+    cursor: pointer;
+    filter: invert(100%);
+    box-shadow: none;
+    transform: scale(1.2);
+
+}
+.gomb:active{
+  box-shadow: 0px 5px 10px grey;
+}
+.cumi{
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    background:red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 25px;
+    text-transform: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    color:cornsilk;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.terkoz{
+    padding-top: 30%;
+}
+
+@media (max-width: 400px) 
+{
+   .terkoz{
+    padding-top: 100%;
+    
+   }
+
+
+}
+@media (max-width: 800px) 
+{
+   .terkoz{
+    padding-top: 50%;
+
+   }
+
+
+}
+.fullscreen-bg{
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index: -100;
+    }
+    @media screen and (max-width: 800px) {
+    .fullscreen-bg{
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index: -100;
+    }
+}
+
+.fullscreen-bg-video{
+    position: absolute;
+    top:50%;
+    left:50%;
+    width:auto;
+    height:auto;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}

@@ -507,7 +507,7 @@ header{
 .puki{
    border: 6px ridge blueviolet;
    border-radius: 5px;
-   max-width: 25%;
+   width:25%;
    height: auto;
    border-radius: 20px;
 }

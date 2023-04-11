@@ -54,6 +54,13 @@
    height: auto;
 }
 
+@media (max-width: 768px){
+   .hpal_logo{
+      width:60%;
+      height:"auto";
+   }
+}
+
 #feher_szoveg{
    font-family: 'Times New Roman', Times, serif;
    font-size: 40px;

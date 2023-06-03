@@ -38,8 +38,8 @@
    border: 2px solid green;
    color: #fff;
    font-size: 30px;
-   border: 8px solid #38050F;
-   border-top: 22px solid rgb(100, 11, 11);
+   border: 8px solid blueviolet;
+   border-top: 22px solid purple;
    border-radius: 25px;
                     
 
@@ -449,7 +449,7 @@ header{
     left: 10px;
     border: none;
     outline: none;
-    background-color: rgb(100, 11, 11);
+    background-color: blueviolet;
     color: white;
     cursor: pointer;
     padding: 10px;
@@ -460,7 +460,7 @@ header{
 }
 
   #felGomb:hover {
-    background-color: #38050F;
+    background-color: blue;
     transform: scale(1.2);
     
 }
@@ -833,7 +833,7 @@ ol.ancient-roma {
 .cimer{
    width:25%;
    height: auto;
-   border: 6px ridge rgb(189, 22, 22);
+   border: 6px ridge blueviolet;
    border-radius: 20px;
 }
 
@@ -977,7 +977,7 @@ ol.c {
 
 width: 200px;
     height: 600px;
-    border: 6px ridge rgb(189, 22, 22);
+    border: 6px ridge blueviolet;
     border-radius: 25px;
 
    }

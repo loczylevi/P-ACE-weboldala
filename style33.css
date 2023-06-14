@@ -525,8 +525,8 @@ header{
 -webkit-text-fill-color:black ;
    -moz-text-stroke-color: yellow;
     -webkit-text-stroke-color: yellow;
-   -moz-text-stroke-width: 2px;  
--webkit-text-stroke-width: 2px;
+   -moz-text-stroke-width: 1px;  
+-webkit-text-stroke-width: 1px;
    
 
 }
@@ -538,8 +538,8 @@ header{
 -webkit-text-fill-color:black ;
     -moz-text-stroke-color: yellow;
     -webkit-text-stroke-color: yellow;
-   -moz-text-stroke-width: 2px;  
--webkit-text-stroke-width: 2px;
+   -moz-text-stroke-width: 1px;  
+-webkit-text-stroke-width: 1px;
    
 
 }

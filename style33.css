@@ -127,7 +127,8 @@
  -webkit-text-stroke-width: 1px;
   
 
-}
+}    
+
 
 .szoveg{
    /*text-align: center;*/
@@ -521,8 +522,8 @@ header{
    font-size: 55px;
    -moz-text-fill-color: black;
 -webkit-text-fill-color:black ;
-   -moz-text-stroke-color: rgb(165, 0, 0);
--webkit-text-stroke-color: rgb(165, 0, 0);
+   -moz-text-stroke-color: yellow;
+    -webkit-text-stroke-color: yellow;
    -moz-text-stroke-width: 2px;  
 -webkit-text-stroke-width: 2px;
    
@@ -534,8 +535,8 @@ header{
    font-size: 55px;
    -moz-text-fill-color: black;
 -webkit-text-fill-color:black ;
-   -moz-text-stroke-color: rgb(165, 0, 0);
--webkit-text-stroke-color: rgb(165, 0, 0);
+    -moz-text-stroke-color: yellow;
+    -webkit-text-stroke-color: yellow;
    -moz-text-stroke-width: 2px;  
 -webkit-text-stroke-width: 2px;
    

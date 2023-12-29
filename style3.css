@@ -742,7 +742,7 @@ border-radius: 25px;
 
 
 .cicoma{
-   border: 3px solid blueviolet;
+   border: 3px solid rgb(72, 91, 63);
    border-radius: 25px;
    transition: transform  0.3s;
    margin-bottom: 20px;

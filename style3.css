@@ -31,8 +31,8 @@
    border: 2px solid green;
    color: #fff;
    font-size: 30px;
-   border: 8px solid blueviolet;
-   border-top: 22px solid purple;
+   border: 8px solid rgb(72, 91, 63);
+   border-top: 22px solid rgb(0 64 0);
    border-radius: 25px;
                     
 
@@ -109,7 +109,7 @@
 .udvozollek{
    font-weight: bold;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 60px;
     color: yellow;
     -moz-text-fill-color: black;
@@ -127,7 +127,7 @@
    font-size: 25px;
    color: black;
    font-weight: bold;
-   font-family: 'Times New Roman', Times, serif;
+   font-family: Arial, Helvetica, sans-serif;
 
 
 }
@@ -139,7 +139,7 @@
 }
 
 #feher_szoveg{
-   font-family: 'Times New Roman', Times, serif;
+   font-family: Arial, Helvetica, sans-serif;
    font-size: 40px;
    color: white;
    -moz-text-fill-color: white;
@@ -154,7 +154,7 @@
 
 .udvozollek2{
    text-align: center;
-   font-family: 'Times New Roman', Times, serif;
+   font-family: Arial, Helvetica, sans-serif;
    font-size: 50px;
    color: yellow;
    -moz-text-fill-color: black;
@@ -442,7 +442,7 @@ header{
     left: 10px;
     border: none;
     outline: none;
-    background-color: blueviolet;
+    background-color: rgb(72, 91, 63);
     color: white;
     cursor: pointer;
     padding: 10px;
@@ -453,7 +453,7 @@ header{
 }
 
   #felGomb:hover {
-    background-color: purple;
+    background-color: rgb(0 64 0);
     color: wheat;
     transform: scale(1.2);
     
@@ -500,12 +500,12 @@ header{
 .epuletek{
    height: auto;
    width: 90%;
-   border: 6px ridge purple;
+   border: 6px ridge rgb(72, 91, 63);
    border-radius: 25px;
 
 }
 .puki{
-   border: 6px ridge blueviolet;
+   border: 6px ridge rgb(72, 91, 63);
    border-radius: 5px;
    width:25%;
    height: auto;
@@ -525,7 +525,7 @@ header{
 
 .udvozollek{
    text-align: center;
-   font-family: 'Times New Roman', Times, serif;
+   font-family: Arial, Helvetica, sans-serif;
    font-size: 55px;
    -moz-text-fill-color: black;
 -webkit-text-fill-color:black ;
@@ -546,9 +546,9 @@ header{
    width: 200px;
    margin: 10px;
    padding: 15px;
-   background:rgb(0, 0, 61);
+   background: rgb(72, 91, 63);
    text-align: center;
-   font-family: Verdana;
+   font-family: Arial, Helvetica, sans-serif;
    font-size: 16px;
    text-transform: uppercase;
    border-radius: 5px;
@@ -565,7 +565,7 @@ header{
    animation-duration: 4s;  
    animation-fill-mode: forwards;*/
    cursor: pointer;
-   background-color: mediumblue;
+   background-color: rgb(0 64 0);
    box-shadow: none;
    transform: scale(1.2);
    color: white;
@@ -577,7 +577,7 @@ header{
 .kinezet{
    height: auto;
    width: 65%;
-border: 6px ridge blueviolet;
+border: 6px ridge rgb(72, 91, 63);
 border-radius: 25px;
 }
 .credit1{
@@ -656,7 +656,7 @@ border-radius: 25px;
    padding: 40px;
    background-image: url(gomb_4.png);
    text-align: center;
-   font-family: Verdana;
+   font-family: 'Times New Roman', Times, serif;
    font-size: 16px;
    font-weight: bold;
    text-transform: uppercase;
